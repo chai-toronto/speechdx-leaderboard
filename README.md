@@ -1,6 +1,6 @@
 # SpeechDx Leaderboard (interactive)
 
-**Live:** https://chai-toronto.github.io/speechdx-leaderboard/
+**Live:** https://chai.cs.toronto.edu/speechdx-leaderboard/
 
 Interactive leaderboard for the **SpeechDx** speech-health benchmark — external
 audio/speech encoders ranked by **mean reciprocal rank (MRR)** across 27 clinical
